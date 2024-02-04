@@ -147,6 +147,9 @@ terraform.rc
 *.gz
 ny_taxi_postgres_data/
 
+# Class notes
+*.txt
+
 !docker-compose.yaml
 
 .DS_Store
