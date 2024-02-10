@@ -35,6 +35,8 @@ def transform(data, *args, **kwargs):
 
     unique_values = data['vendor_id'].unique()
     print(unique_values)
+    print(data['lpep_pickup_date'].unique())
+
 
     return data
 
