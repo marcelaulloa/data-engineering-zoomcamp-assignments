@@ -141,7 +141,7 @@ terraform.rc
 *.secrets.yaml
 *.json
 
-# Data Files
+# Data Filesß
 *.csv
 *.xlsx
 *.gz
@@ -152,4 +152,7 @@ ny_taxi_postgres_data/
 
 !docker-compose.yaml
 
+# Other files and folders
 .DS_Store
+mage-ai-terraform-templates/
+mage-zoomcamp/  
