@@ -149,6 +149,7 @@ ny_taxi_postgres_data/
 
 # Class notes
 *.txt
+*.MD
 
 !docker-compose.yaml
 
