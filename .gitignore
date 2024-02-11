@@ -147,7 +147,7 @@ terraform.rc
 *.xlsx
 *.gz
 ny_taxi_postgres_data/
-*.parquet
+# *.parquet
 
 # Class notes
 *.txt
