@@ -12,7 +12,7 @@ This repository contains all the assignments and code related to the Data Engine
 - [Assignment Description](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/02-workflow-orchestration/homework.md)
 - [Assignment Files](https://github.com/marcelaulloa/data-engineering-zoomcamp-assignments/tree/main/02-workflow-orchestration/assignment)
 
-## Module 3: Data Warehouse
+## Module 3: Data Warehouse (BigQuery)
 - [Module Content](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/03-data-warehouse)
 - [Assignment Description](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/03-data-warehouse/homework.md)
 - [Assignment Files](https://github.com/marcelaulloa/data-engineering-zoomcamp-assignments/tree/main/03-data-warehouse)
