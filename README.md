@@ -19,5 +19,5 @@ This repository contains all the assignments and code related to the Data Engine
 
 ### Module 4: Analytics Engineering (dbt)
 - [Mdoule Content](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/04-analytics-engineering)
-- Assignement Description(https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/04-analytics-engineering/homework.md)
+- [Assignement Description](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/04-analytics-engineering/homework.md)
 - [Assignement Files](https://github.com/marcelaulloa/data-engineering-zoomcamp-assignments/tree/main/04-analytics-engineering)
