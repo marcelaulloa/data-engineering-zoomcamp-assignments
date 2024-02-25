@@ -1,10 +1,5 @@
-Welcome to your new dbt project!
 
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
+[Project documentation](https://cloud.getdbt.com/accounts/205012/develop/5685554/docs/index.html#!/overview)
 
 
 ### Resources:
