@@ -1,6 +1,11 @@
--- Create an external table using the Green Taxi Trip Records Data for 2022.
-CREATE OR REPLACE EXTERNAL TABLE `plucky-cascade-305020.green_taxi.external_green_taxi_data`
+CREATE OR REPLACE EXTERNAL TABLE `plucky-cascade-305020.trips_data_all.external_fhv_tripdata`
 OPTIONS (
-  format = 'parquet',
-  uris = ['gs://mage-zoomcamp-marcela-ulloa/green_taxi_2022.parquet']
+  format = 'csv',
+  uris = ['gs://week4_bucket/fhv/*.csv']
 );
+
+
+CREATE OR REPLACE TABLE `plucky-cascade-305020.trips_data_all.fhv_tripdata` AS
+SELECT 
+*
+FROM `plucky-cascade-305020.trips_data_all.external_fhv_tripdata`;
