@@ -18,6 +18,11 @@ This repository contains all the assignments and code related to the Data Engine
 - [Assignment Files](https://github.com/marcelaulloa/data-engineering-zoomcamp-assignments/tree/main/03-data-warehouse)
 
 ### Module 4: Analytics Engineering (dbt)
-- [Mdoule Content](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/04-analytics-engineering)
+- [Module Content](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/04-analytics-engineering)
 - [Assignement Description](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/04-analytics-engineering/homework.md)
 - [Assignement Files](https://github.com/marcelaulloa/data-engineering-zoomcamp-assignments/tree/main/04-analytics-engineering)
+
+### Module 5: Batch Processing (PySpark)
+- [Module Content](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/05-batch)
+- [Assignement Description](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/05-batch/homework.md)
+- [Assignement Files](https://github.com/marcelaulloa/data-engineering-zoomcamp-assignments/tree/main/05-batch)
