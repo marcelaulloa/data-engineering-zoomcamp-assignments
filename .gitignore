@@ -159,3 +159,4 @@ ny_taxi_postgres_data/
 .DS_Store
 mage-ai-terraform-templates/
 mage-zoomcamp/  
+spark-warehouse/
