@@ -26,3 +26,7 @@ This repository contains all the assignments and code related to the Data Engine
 - [Module Content](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/05-batch)
 - [Assignement Description](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/05-batch/homework.md)
 - [Assignement Files](https://github.com/marcelaulloa/data-engineering-zoomcamp-assignments/tree/main/05-batch)
+
+### Module 6: Stream Processing
+- [Module Content](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/06-streaming)
+- [Assignement Description](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts/2024/06-streaming)
