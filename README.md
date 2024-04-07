@@ -29,4 +29,4 @@ This repository contains all the assignments and code related to the Data Engine
 
 ### Module 6: Stream Processing
 - [Module Content](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/06-streaming)
-- [Assignement Description](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts/2024/06-streaming)
+- [Assignement Description](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/06-streaming/homework.md)
